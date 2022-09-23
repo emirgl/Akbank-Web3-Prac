@@ -57,6 +57,7 @@ contract CrowdFund {
         require(campaign.creator == msg.sender, "not creator");
         require(block.timestamp < campaign.startAt, "started");
         delete campaigns[_id];
+        
         emit Cancel(_id);
     }
 
