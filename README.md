@@ -4,6 +4,5 @@ index.ts
 
 
 > **⚠ WARNING: **Smart contracts might have unexpected consequences.** ** 
-
-> **⚠ WARNING:  **All risk is yours , any liability is not accepted.**
+> **⚠ WARNING:  **All risk is yours , any liability is not accepted.** **
 > **⚠ WARNING: **Be careful when using  that code repositories at smart contracts.**
